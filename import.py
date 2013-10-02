@@ -31,10 +31,6 @@ with open('post_atm_location.csv') as csvfile:
              node['tag']['operator'] = '中華郵政'
              node['tag']['currency:twd'] = 'yes'
              node['tag']['description'] = row[3]
-             if(row[12] == "局外"):
-                 node['tag']['outdoor'] = "yes"
-             else:
-                 node['tag']['indoor'] = "yes"
              node['tag']['description'] = "%s%s%s%s%s%s" % (row[3],row[12],row[8],row[9],row[10],row[11])
              node['tag']['address'] = row[0]+row[1]+row[5]
              node['tag']['phone'] = row[4].replace('(0', '+886-').replace(')','-').replace('轉', 'p')
