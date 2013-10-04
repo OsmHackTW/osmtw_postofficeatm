@@ -10,6 +10,6 @@ osmtw_postofficeatm
 
 因此我們無法直接將該筆資料匯入 OpenStreetMap 的圖資。只能可以用補足已經上傳之資料[3]。
 
- [1] 政府資料開放平臺>資料分類>服務分類>交通及通訊>rawData <http://data.gov.tw/opendata/Details?sno=315830000M-00004>
- [2] Tag:amenity=atm - OpenStreetMap Wiki <http://wiki.openstreetmap.org/wiki/Atm>
- [3] OpenStreetMap | 變更組合 | 18146099 <http://www.openstreetmap.org/browse/changeset/18146099>
+* [1] 政府資料開放平臺>資料分類>服務分類>交通及通訊>rawData <http://data.gov.tw/opendata/Details?sno=315830000M-00004>
+* [2] Tag:amenity=atm - OpenStreetMap Wiki <http://wiki.openstreetmap.org/wiki/Atm>
+* [3] OpenStreetMap | 變更組合 | 18146099 <http://www.openstreetmap.org/browse/changeset/18146099>
