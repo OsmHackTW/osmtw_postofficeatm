@@ -1,5 +1,3 @@
-osmtw_postofficeatm
-===================
 資料來源為 dat.gov.tw 的中華郵政公司郵務業務全國郵局 ATM 位址[1]，檢查方法是利用 data.gov.tw 的 CSV 檔案中的經緯度，去查詢 OpenStreetMap 鄰近是否已經有人編輯 ATM[2]。
 
 結果是全國郵局 ATM 位址中的經緯度是不可靠的。例如臺灣大學校內幾個 ATM 位址，明顯有誤。
